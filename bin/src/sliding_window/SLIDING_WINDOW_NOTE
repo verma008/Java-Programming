@@ -1,0 +1,7 @@
+When we need to use sliding window technique:
+	1. Jab Continuous array, substring , subArray diya ho
+	2. jab max/min/count/length nikalna ho to hum sliding window technique soch sakte hai
+
+Two Types:
+    1. Fixed Length Sliding Window (First,Calculate for first window then Solves for other window and then return the result)
+    2. Variable Length Sliding Window
